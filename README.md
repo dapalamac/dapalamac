@@ -104,7 +104,7 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/TU-USUARIO]
+- 💼 LinkedIn: [https://www.linkedin.com/in/david-palacio-67102618a/]
 - 📧 Email: dapalma94@gmail.com
 
 ---
