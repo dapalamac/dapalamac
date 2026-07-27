@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy David Palacio</h1>
 
-<!--
-**dapalamac/dapalamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | Backend Developer | .NET | API Integrations
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Apasionado por el desarrollo de software, la automatización de procesos y la creación de soluciones empresariales escalables.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+💻 Soy desarrollador de software con más de 5 años de experiencia construyendo aplicaciones empresariales utilizando tecnologías .NET.
+
+Durante mi experiencia profesional he trabajado en:
+
+- Desarrollo de aplicaciones Backend con .NET y C#
+- Integración de APIs REST
+- Facturación Electrónica
+- Automatización de procesos empresariales
+- Desarrollo de soluciones para FLYPASS
+- Administración y optimización de bases de datos MySQL
+- Soporte y resolución de incidencias en producción
+- Desarrollo de nuevas funcionalidades para sistemas empresariales
+
+Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, buenas prácticas de desarrollo y tecnologías cloud.
+
+---
+
+## 🛠 Tecnologías
+
+### Lenguajes
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,javascript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+- ASP.NET
+- ASP.NET Core
+- REST APIs
+- Entity Framework
+
+### Bases de datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+- SQL
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+</p>
+
+---
+
+## 💼 Experiencia
+
+### Software Developer
+**The Parking S.A.S.**
+
+- Desarrollo de soluciones empresariales en .NET
+- Integración de Facturación Electrónica mediante APIs
+- Desarrollo e integración de FLYPASS
+- Automatización del proceso de cobro de mensualidades
+- Optimización de consultas MySQL
+- Mantenimiento y evolución de sistemas críticos
+- Soporte y solución de incidencias en producción
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Clean Architecture
+- ASP.NET Core
+- Buenas prácticas de desarrollo
+- AWS Cloud
+- Diseño de APIs escalables
+
+---
+
+## 📈 Objetivos
+
+✔ Construir software mantenible y escalable
+
+✔ Seguir creciendo como Backend Developer
+
+✔ Aprender nuevas tecnologías y arquitectura de software
+
+✔ Contribuir a proyectos de alto impacto
+
+---
+
+## 📫 Conecta conmigo
+
+- 💼 LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+- 📧 Email: TU-CORREO
+
+---
+
+<p align="center">
+
+⭐ Gracias por visitar mi perfil ⭐
+
+</p>
