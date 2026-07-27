@@ -80,15 +80,6 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 
 ---
 
-## 🌱 Actualmente aprendiendo
-
-- Clean Architecture
-- ASP.NET Core
-- Buenas prácticas de desarrollo
-- AWS Cloud
-- Diseño de APIs escalables
-
----
 
 ## 📈 Objetivos
 
