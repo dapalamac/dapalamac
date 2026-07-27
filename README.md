@@ -104,8 +104,8 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: https://www.linkedin.com/in/TU-USUARIO
-- 📧 Email: TU-CORREO
+- 💼 LinkedIn: [https://www.linkedin.com/in/TU-USUARIO]
+- 📧 Email: dapalma94@gmail.com
 
 ---
 
